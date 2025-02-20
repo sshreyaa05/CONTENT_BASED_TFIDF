@@ -16,3 +16,36 @@ By leveraging the Gini Index in the first dataset and Entropy in the second data
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
